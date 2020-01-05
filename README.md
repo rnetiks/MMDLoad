@@ -1,2 +1,2 @@
 # MMDLoad
-A Loader C# Library for MMD's .pmx Format since no fucc ever made this public. only documentations are online...
+I hate everything.
